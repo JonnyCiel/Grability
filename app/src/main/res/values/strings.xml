@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Grability</string>
+    <string name="action_settings">Settings</string>
+    <string name="categoriaLabel">Categoria</string>
+    <string name="imagenAppContentDescription">Imagen APP</string>
+    <string name="descriptionDetails">Descripción</string>
+    <string name="categoriasLista">Categorias</string>
+    <string name="tituloListaApps">Lista de aplicaciones</string>
+    <string name="mDialogText">Cargando, por favor espera.</string>
+    <string name="toastSEmpty">No se ha cargado ningún elemento. Revise su conexión a internet.</string>
+    <string name="tituloAppsDetails">Detalles</string>
+    <string name="menuReload">Actualizar</string>
+    <string name="transition_name_name">transition:NAME</string>
+    <string name="transition_name_Image">transition:IMAGEN</string>
+    <string name="transition_name_Cate">transition:CATE</string>
+    <string name="transition_name_Descrip">transition:DESCRIP</string>
+
+</resources>
